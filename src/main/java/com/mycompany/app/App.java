@@ -11,7 +11,7 @@ public class App {
         // 检测当前jdk版本
         System.out.println("java.version=" + System.getProperty("java.version"));
 
-        // 检测当前os名称
+        // 检测当前os名称  买买买
         System.out.println("os.name=" + System.getProperty("os.name")); 
         
         // 快速排序

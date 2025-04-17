@@ -1,5 +1,6 @@
 {
     "maven.view": "hierarchical",
     "java.project.explorer.showNonJavaResources": false,
-    "commentTranslate.targetLanguage": "zh-CN"
+    "commentTranslate.targetLanguage": "zh-CN",
+    "commentTranslate.hover.enabled": true
 }
